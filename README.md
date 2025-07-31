@@ -20,5 +20,5 @@ https://opn.bio/@your-github-username
 
 ### Learn More
 
-- [The setup guide →](github.com/opnbio/docs/blob/main/setup.md)
+- [The setup guide →](https://github.com/opnbio/docs/blob/main/setup.md)
 - [The `bio.json` schema →](https://github.com/opnbio/docs/blob/main/schema.md)
